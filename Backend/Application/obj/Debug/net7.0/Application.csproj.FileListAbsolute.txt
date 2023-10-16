@@ -1,0 +1,17 @@
+E:\Repos\Trainings\Reactivities\Backend\Application\bin\Debug\net7.0\Application.deps.json
+E:\Repos\Trainings\Reactivities\Backend\Application\bin\Debug\net7.0\Application.dll
+E:\Repos\Trainings\Reactivities\Backend\Application\bin\Debug\net7.0\Application.pdb
+E:\Repos\Trainings\Reactivities\Backend\Application\bin\Debug\net7.0\Domain.dll
+E:\Repos\Trainings\Reactivities\Backend\Application\bin\Debug\net7.0\Persistence.dll
+E:\Repos\Trainings\Reactivities\Backend\Application\bin\Debug\net7.0\Domain.pdb
+E:\Repos\Trainings\Reactivities\Backend\Application\bin\Debug\net7.0\Persistence.pdb
+E:\Repos\Trainings\Reactivities\Backend\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+E:\Repos\Trainings\Reactivities\Backend\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Trainings\Reactivities\Backend\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+E:\Repos\Trainings\Reactivities\Backend\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+E:\Repos\Trainings\Reactivities\Backend\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+E:\Repos\Trainings\Reactivities\Backend\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+E:\Repos\Trainings\Reactivities\Backend\Application\obj\Debug\net7.0\Application.dll
+E:\Repos\Trainings\Reactivities\Backend\Application\obj\Debug\net7.0\refint\Application.dll
+E:\Repos\Trainings\Reactivities\Backend\Application\obj\Debug\net7.0\Application.pdb
+E:\Repos\Trainings\Reactivities\Backend\Application\obj\Debug\net7.0\ref\Application.dll
